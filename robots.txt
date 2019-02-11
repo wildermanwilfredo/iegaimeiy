@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://beigheaf.phylogenetic-composer.com/sitemap.xml
